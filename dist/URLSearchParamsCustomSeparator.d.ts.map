@@ -1,0 +1,1 @@
+{"version":3,"file":"URLSearchParamsCustomSeparator.d.ts","sourceRoot":"","sources":["../src/URLSearchParamsCustomSeparator.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,CAAC,OAAO;;IAGb;;;OAGG;gBACS,IAAI,EAAE,MAAM,EAAE,UAAU,EAAE,MAAM,EAAE;IAiB9C;;;;OAIG;IACH,QAAQ,IAAI,MAAM;IAIlB;;;;OAIG;IACH,wBAAwB,IAAI,eAAe;CAG3C"}
